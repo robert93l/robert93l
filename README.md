@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @robert93l
 - 👀 I’m interested in Android Developer
-- 🌱 I’m currently learning Sap Basis and Paypal API
+- 🌱 I’m currently learning Flutter and Paypal API
 -
 - 📫 How to reach me pagoenlinearoberto@gmail.com
 
