@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @robert93l
-- 👀 I’m interested in Android Developer
+- 👀 I’m interested in Android Development
 - 🌱 I’m currently learning Flutter and Compose
 -
 - 📫 How to reach me pagoenlinearoberto@gmail.com
